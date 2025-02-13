@@ -1,0 +1,4 @@
+cd "C:\Program Files\Java\jdk-22\bin"
+jlink --module-path "C:\Program Files\Java\jdk-22\jmods" --add-modules java.base,java.desktop,java.logging --output D:\Desktop\tracnghiem\new_JRE
+
+jdeps --list-deps tracnghiem.jar

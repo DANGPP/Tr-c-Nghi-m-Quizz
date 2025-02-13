@@ -1,0 +1,72 @@
+
+
+Version:	3.50
+CmdLine:	D:\Desktop\tracnghiem\tracnghiem.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Desktop\tracnghiem\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	D:\Desktop\tracnghiem\JRE\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	D:\Desktop\tracnghiem\JRE\bin\javaw.exe
+Launcher args:	-jar "D:\Desktop\tracnghiem\tracnghiem.exe"
+Args length:	43/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Desktop\tracnghiem\tracnghiem.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Desktop\tracnghiem\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	D:\Desktop\tracnghiem\JRE\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	D:\Desktop\tracnghiem\JRE\bin\javaw.exe
+Launcher args:	-jar "D:\Desktop\tracnghiem\tracnghiem.exe"
+Args length:	43/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Desktop\tracnghiem\tracnghiem.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Desktop\tracnghiem\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	new_JRE
+Check launcher:	D:\Desktop\tracnghiem\new_JRE\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	D:\Desktop\tracnghiem\new_JRE\bin\javaw.exe
+Launcher args:	-jar "D:\Desktop\tracnghiem\tracnghiem.exe"
+Args length:	43/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Desktop\tracnghiem1.1\tracnghiem.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Desktop\tracnghiem1.1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	D:\Desktop\tracnghiem1.1\JRE\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	D:\Desktop\tracnghiem1.1\JRE\bin\javaw.exe
+Launcher args:	-jar "D:\Desktop\tracnghiem1.1\tracnghiem.exe"
+Args length:	46/32768 chars
+Exit code:	0

@@ -7,7 +7,7 @@
 ---
 
 ### Cách sử dụng:
-- Chạy tệp **dictionary.exe** để mở ứng dụng và sử dụng
+- Chạy tệp **.exe** để mở ứng dụng và sử dụng
 ### Cách tạo bộ câu hỏi:
 1. Tạo một file `XXX.txt` chứa các câu hỏi và lựa chọn.
 2. Tạo một file `answer+"XXX".txt` chứa đáp án với mỗi đáp án viết liên tiếp.
